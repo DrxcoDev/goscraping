@@ -1,8 +1,8 @@
-# goscraping
+# Goscraping
 
 Introducing Goscraping, a robust web scraping software developed in Golang (Go) that empowers users to extract and organize data from websites with ease. Designed for efficiency and speed, Goscraping is the perfect tool for developers, researchers, and data enthusiasts looking to harness the power of web data.
 
-Key Features:
+## 1. Key Features:
 
    - High Performance: Built on the fast and efficient Golang framework, Goscraping delivers rapid data extraction, making it ideal for scraping large volumes of information from multiple sources.
 
@@ -17,3 +17,13 @@ Key Features:
    - Regular Updates: The Goscraping team is committed to continuous improvement, providing regular updates to ensure the software remains compatible with the latest web technologies and standards.
 
    - Comprehensive Support: Access detailed documentation and responsive customer support to assist you with any questions or challenges you may encounter.
+
+## 2. Installing:
+
+   - Clone:
+      -  `$ git clone https://github.com/DrxcoDev/goscraping.git`
+    - Input:
+      - `$ ./build.sh`
+    
+     Finishh!!!!
+
